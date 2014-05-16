@@ -149,3 +149,8 @@ xcuserdata
 #
 *.xccheckout
 
+####
+# personal file extension filter
+#
+*.output
+
